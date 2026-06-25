@@ -54,6 +54,7 @@ streamlit run main.py
 ---
 
 💡 Pistes pédagogiques pour la classe
+
 Ce projet s'intègre parfaitement dans une démarche de transition écologique (EDD) et peut être exploité de plusieurs manières :
 
     Atelier Analyse d'habitudes : Demander aux élèves de recréer le panier de courses type de leur foyer ou de leur dernier fast-food, puis d'identifier les "points noirs" carbone.
