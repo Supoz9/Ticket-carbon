@@ -57,11 +57,11 @@ streamlit run main.py
 
 Ce projet s'intègre parfaitement dans une démarche de transition écologique (EDD) et peut être exploité de plusieurs manières :
 
-    Atelier Analyse d'habitudes : Demander aux élèves de recréer le panier de courses type de leur foyer ou de leur dernier fast-food, puis d'identifier les "points noirs" carbone.
+   Atelier Analyse d'habitudes : Demander aux élèves de recréer le panier de courses type de leur foyer ou de leur dernier fast-food, puis d'identifier les "points noirs" carbone.
 
-    Défi Sobriété : Concevoir le panier le plus optimisé possible pour obtenir les équivalences les plus basses (le moins de jours d'absorption d'arbre possible sans jeûner).
+   Défi Sobriété : Concevoir le panier le plus optimisé possible pour obtenir les équivalences les plus basses (le moins de jours d'absorption d'arbre possible sans jeûner).
 
-    Pédagogie active / Code : Pour les filières technologiques (CIEL/MELEC), ce code constitue une excellente base d'activité pour apprendre la manipulation des dictionnaires Python, la gestion d'interfaces web rapides et les variables d'état avec Streamlit.
+   Pédagogie active / Code : Pour les filières technologiques (CIEL/MELEC), ce code constitue une excellente base d'activité pour apprendre la manipulation des dictionnaires Python, la gestion d'interfaces web rapides et les variables d'état avec Streamlit.
 
 🤝 Communs Numériques & Partage
 
