@@ -22,7 +22,7 @@ Plutôt que de manipuler des chiffres abstraits, l'application transforme un pan
 
 * **Langage :** Python 3.x
 * **Framework Web UI :** Streamlit (Interface adaptative et réactive)
-* **Données :** Indicateurs d'émissions simplifiés (inspirés des bases de données de l'ADEME).
+* **Données :** Indicateurs d'émissions simplifiés (Les valeurs moyennes des produits de l'application ont été mises à jour en se basant sur les chiffres de l'ADEME).
 
 ---
 

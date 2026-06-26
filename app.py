@@ -3,11 +3,11 @@ import streamlit as st
 # 1. DONNÉES
 catalogue = {
     "Aliments": {
-        "Lait": 1.2, "Pain": 0.9, "Nutella": 5.63, "Céréales": 0.7, "Café": 1.4,
-        "Chocolat": 3.45, "Thé": 3.3, "Jus de fruit": 1.7, "Soda": 1.10, "Vin": 0.71,
-        "Riz": 0.71, "Pâtes": 4.2, "Poisson": 0.71, "Semoule": 2.15, "Huile": 1.15,
-        "Vinaigre": 2.15, "Ketchup": 3.5, "Chips": 2.87, "Prince": 6.2, "Steak haché": 15.59,
-        "Poulet": 0.89, "Chou-fleur": 0.27, "Poire": 2.61, "Oeufs": 0.61, "Pomme de terre": 0.4
+        "Lait": 1.30, "Pain": 1.10, "Nutella": 4, "Céréales (petit-dej)": 1.50, "Café": 15.00,
+        "Chocolat (noir)": 6.50, "Thé": 5.00, "Jus de fruit": 1.20, "Soda": 0.60, "Vin": 2.50,
+        "Riz": 2.50, "Pâtes": 1.40, "Poisson": 0.71, "Semoule": 1.50, "Huile": 2.00,
+        "Vinaigre": 2.15, "Ketchup": 2.5, "Chips": 2.50, "Prince": 6.2, "Steak haché": 25.00,
+        "Poulet": 4.50, "Chou-fleur": 0.27, "Poire": 0.7, "Oeufs": 0.61, "Pomme de terre": 0.4
     },
     "Produits Ménagers": {
         "Produit sol": 1.5, "Balai": 3.3, "Aspirateur": 8.7, "Produit vitre": 1.4, "Destop": 2.1,
@@ -16,9 +16,9 @@ catalogue = {
         "Papier alu": 2.1, "Torchon": 2.2, "Gel WC": 3.4, "Sceau": 1.92, "Déo Febreze": 2.0
     },
     "Produits de Beauté": {
-        "Shampoing": 1.5, "Parfum": 1.0, "Crème": 1.5, "Déodorant": 3.5, "Après rasage": 0.97,
+        "Shampoing": 2.5, "Parfum": 1.0, "Crème": 1.5, "Déodorant": 10.00, "Après rasage": 0.97,
         "Vernis": 16.57, "Rouge à lèvre": 3.5, "Gel coiffant": 2.6, "Dentifrice": 3.6, "Papier toilette": 2.5,
-        "Bain de bouche": 1.53, "Brosse à dents": 1.5, "Labello": 1.3, "Pansements": 3.9
+        "Bain de bouche": 1.53, "Brosse à dents": 2.5, "Labello": 1.3, "Pansements": 3.9
     }
 }
 
